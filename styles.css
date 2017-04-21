@@ -536,6 +536,11 @@ margin-left: -10px;
 	  width: 47%;
   }
  
+ 
+ #name,  #email {
+	 width: 40%;
+ }
+ 
  #email {
 	 display: inline-block;
 	 float: right;
