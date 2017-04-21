@@ -533,13 +533,10 @@ margin-left: -10px;
  }
  
   input {
-	  width: 47%;
+	  width: 40%;
   }
  
  
- #name,  #email {
-	 width: 40%;
- }
  
  #email {
 	 display: inline-block;
