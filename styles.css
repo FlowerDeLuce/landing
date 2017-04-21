@@ -541,7 +541,7 @@ margin-left: -10px;
  #email {
 	 display: inline-block;
 	 float: right;
-	 
+	 padding-right: 0;
  }
  
  textarea {
@@ -549,6 +549,7 @@ margin-left: -10px;
 	 resize: none;
 	 height: 160px;
 	 margin-top: 25px;
+	 padding-right: 0;
  }
  
   input:focus, textarea:focus {
